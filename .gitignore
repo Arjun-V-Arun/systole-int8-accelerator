@@ -1,0 +1,11 @@
+sim_build/
+results_*.xml
+__pycache__/
+*.vcd
+*.fst
+model/libsamodel.so
+model/selftest
+model/perf_model
+synth/lib/
+synth/out/
+formal/logs/
